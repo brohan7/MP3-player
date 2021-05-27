@@ -22,14 +22,14 @@ Out of all the GUI methods, tkinter is the most commonly used method. It is a 
 
 
 ## Function of the MP3
-Play Song
-Add Song
-Add Many Song
-Stop A Song
-Next Song (Forward)
-Previous Song (Backward)
-Delete Song
-Delete All Song
+Play Song,
+Add Song,
+Add Many Song,
+Stop A Song,
+Next Song (Forward),
+Previous Song (Backward),
+Delete Song,
+Delete All Song &
 Pause A Song
 
 ![image](https://user-images.githubusercontent.com/60272313/119899228-7a9ff100-bf60-11eb-9ee8-e4a8432d4610.png)
